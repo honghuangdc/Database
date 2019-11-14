@@ -1,0 +1,35 @@
+{
+  "vscode": {
+    "common": [
+      { "name": "打开命令面板", "operation": "Ctrl+Shift+P & F1" },
+      { "name": "快速打开文件", "operation": "Ctrl+P" },
+      { "name": "打开新窗口/实例", "operation": "Ctrl+Shift+N" },
+      { "name": "关闭窗口/实例", "operation": "Ctrl+Shift+W" }
+    ],
+    "basic": [
+      { "name": "剪切当前行", "operation": "Ctrl+X" }
+    ],
+    "nav": [
+      { "name": "显示所有符号", "operation": "Ctrl+T" }
+    ],
+    "search": [],
+    "select": [],
+    "edit": [],
+    "manage": []
+  },
+  "git":[
+    { "name": "", "operation": "" }
+  ],
+  "linux": [
+    { "name": "", "operation": "" }
+  ],
+  "ps": [
+    { "name": "", "operation": "" }
+  ],
+  "chrome": [
+    { "name": "", "operation": "" }
+  ],
+  "windows": [
+    { "name": "", "operation": "" }
+  ]
+}
